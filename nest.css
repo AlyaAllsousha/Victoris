@@ -75,6 +75,7 @@ max-width: 500px;
   letter-spacing: normal;
   text-transform: uppercase;
   line-height: 1.3;
+  margin-bottom: 70px;
 }
 .main_orange{
   color: #FF7B01;
@@ -82,5 +83,15 @@ max-width: 500px;
 .btn_main{
   text-transform: none;
   font-size: 40px;
-  margin-top: 20px;
+ 
+}
+.space{
+    width: 100%;
+    height: 20px;
+}
+.main::after{
+content: "";
+height: 660px;    
+width: 773px;
+background: url(img/5293\ 1.svg) no-repeat center/cover;
 }

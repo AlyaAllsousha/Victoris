@@ -27,9 +27,11 @@
             </div>
             <div class="main">
                 <h1 class="main_text"><span class="main_orange">Создавай</span>,  играй,  обучайся!</h1>
+                
                 <a href="" class="btn btn_main">
                     Создать
                 </a>
+                <div class="space"></div>
                 <a href="" class="btn wh btn_main">
                     Учиться
                 </a>
