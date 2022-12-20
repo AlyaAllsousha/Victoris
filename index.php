@@ -28,7 +28,7 @@
             <div class="main">
                 <h1 class="main_text"><span class="main_orange">Создавай</span>,  играй,  обучайся!</h1>
                 
-                <a href="" class="btn btn_main">
+                <a href="fill.php" class="btn btn_main">
                     Создать
                 </a>
                 <div class="space"></div>

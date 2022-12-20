@@ -43,7 +43,6 @@ body{
   background-color: #25E087;
   border-radius: 10px;
   vertical-align: middle;
-  text-transform: uppercase;
   margin: 10px;
   transition: all .2s linear;
   border:2px solid #25E087;
@@ -83,6 +82,7 @@ max-width: 500px;
 .btn_main{
   text-transform: none;
   font-size: 40px;
+  padding: 10px 32px;
  
 }
 .space{
@@ -93,5 +93,14 @@ max-width: 500px;
 content: "";
 height: 660px;    
 width: 773px;
-background: url(img/5293\ 1.svg) no-repeat center/cover;
+right: 0;
+top: 101px;
+position: absolute;
+background: url(img/main.svg) no-repeat center/cover;
+}
+
+
+/* Fill */
+.fill{
+    background: url(img/images.svg) no-repeat center/contain;
 }
